@@ -13,7 +13,7 @@
 
 ### Demo Screeshots
 
-![Glowing Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Glowing Desktop Demo](./desktop.png "Desktop Demo")
 
 ### Prerequisites
 
